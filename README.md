@@ -157,7 +157,7 @@ Connect with me:
     <table>
         <tr>
             <td>
-                <a href="https://www.linkedin.com/in/josiquoos/" target="blank">
+                <a href="https://www.linkedin.com/in/joycequoos/" target="blank">
                     <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="60">
                 </a>
             </td>
@@ -167,7 +167,7 @@ Connect with me:
                 </a>
             </td>
             <td >
-                <a href="https://www.instagram.com/josidataworks/" target="blank">
+                <a href="https://www.instagram.com/joycedataworks/" target="blank">
                     <img align="center" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
             </td>
