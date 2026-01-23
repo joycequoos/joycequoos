@@ -46,13 +46,6 @@
 
 #
 
-<div align="center">
-<a href="https://github.com/joycequoos?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=JosiTubaroski&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
 
  
 
