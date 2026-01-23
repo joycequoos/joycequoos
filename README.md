@@ -6,7 +6,7 @@
 
 <div align="center">
  
- <a href="https://github.com/JosiTubaroski?tab=repositories&sort=stargazers">
+ <a href="https://github.com/joycequoos?tab=repositories&sort=stargazers">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jositubaroski"/>
  </a>
  &nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/JosiTubaroski"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;DATA%20ANALYST;DATA%20SCIENCE;Data+ENGINEERING;15%2B%20years%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/joycequoos"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;DATA%20ANALYST;DATA%20SCIENCE;Data+ENGINEERING;15%2B%20years%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
@@ -24,7 +24,7 @@
  <p>
  👨🏽‍💻 &nbsp; <b>About Me</b>
  </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/power-BI.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/joycequoos/joycequoos/blob/main/power-BI.jpg">
 
 <p>
 - 🔭 I’m currently working on dados
@@ -47,7 +47,7 @@
 #
 
 <div align="center">
-<a href="https://github.com/JosiTubaroski?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=JosiTubaroski&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/joycequoos?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=JosiTubaroski&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
 </div>
 
 <div align="center">
@@ -71,8 +71,8 @@ I'm currently working on creating content that covers data analysis and data sci
   </tr>
   <tr>
    <td valign="center" align="center" width="400px">
-    <a font-size: 50px; href="https://github.com/JosiTubaroski/Principal_Data/blob/main/README.md" target="_blank" rel="noopener noreferrer"> Link for Data </a></br>
-    <a font-size: 50px; href="https://github.com/JosiTubaroski/PLD_Principal/blob/main/README.md" target="_blank" rel="noopener noreferrer"> PLD Projects – Access Restricted </a></br>
+    <a font-size: 50px; href="https://github.com/joycequoos/Principal_Data/blob/main/README.md" target="_blank" rel="noopener noreferrer"> Link for Data </a></br>
+    <a font-size: 50px; href="https://github.com/joycequoos/PLD_Principal/blob/main/README.md" target="_blank" rel="noopener noreferrer"> PLD Projects – Access Restricted </a></br>
    
 
 
@@ -83,15 +83,15 @@ I'm currently working on creating content that covers data analysis and data sci
 
    
    <td valign="center" align="center" width="400px">
-    <a font-size: 50px; href="https://github.com/JosiTubaroski/Sites/blob/main/README.md"> HTML/CSS/JavaScript </a></br>
-    <a font-size: 50px; href="https://github.com/JosiTubaroski/Development"> Development </a></br>
+    <a font-size: 50px; href="https://github.com/joycequoos/Sites/blob/main/README.md"> HTML/CSS/JavaScript </a></br>
+    <a font-size: 50px; href="https://github.com/joycequoos/Development"> Development </a></br>
 
 
     
 
    </td>
    <td valign="center" align="center" width="400px">
-    <a font-size: 50px; href="https://github.com/JosiTubaroski/Test_QA"> Software Testing </a></br> 
+    <a font-size: 50px; href="https://github.com/joycequoos/Test_QA"> Software Testing </a></br> 
    </td>
   </tr>
  </table/>
@@ -110,10 +110,10 @@ I'm currently working on creating content that covers data analysis and data sci
 </p>
 
 <div align="center">
-  <a href="https://github.com/JosiTubaroski">
+  <a href="https://github.com/joycequoos">
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosiTubaroski&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiTubaroski&layout=compact&theme=dracula&hide_border=true&langs_count=15"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycequoos&layout=compact&theme=dracula&hide_border=true&langs_count=15"/>
 </div>  
     
 
@@ -133,9 +133,9 @@ I'm currently working on creating content that covers data analysis and data sci
  
 <div> 
  
-  ![Snake animation](https://github.com/JosiTubaroski/JosiTubaroski/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joycequoos/joycequoos/blob/main/github-contribution-grid-snake.svg)
 
-   <img align="center" alt="Coding" width="400" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Dados12.png">
+   <img align="center" alt="Coding" width="400" src="https://github.com/joycequoos/joycequoos/blob/main/img/Dados12.png">
 
  
 
@@ -158,17 +158,17 @@ Connect with me:
         <tr>
             <td>
                 <a href="https://www.linkedin.com/in/joycequoos/" target="blank">
-                    <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="60">
+                    <img src="https://github.com/joycequoos/joycequoos/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="60">
                 </a>
             </td>
             <td >
                 <a href="mailto:josiquoos@gmail.com" target="_blank">
-                    <img align="center" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo" height="50" width="50">
+                    <img align="center" src="https://github.com/joycequoos/joycequoos/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo" height="50" width="50">
                 </a>
             </td>
             <td >
                 <a href="https://www.instagram.com/joycedataworks/" target="blank">
-                    <img align="center" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
+                    <img align="center" src="https://github.com/joycequoos/joycequoos/blob/main/img/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
             </td>
         </tr>
@@ -179,44 +179,44 @@ Connect with me:
 <table>
   <tr>
     <td>
-      <a href="https://github.com/JosiTubaroski/WebAPI_NET_Employees">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=WebAPI_NET_Employees&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="WebAPI_NET_Employees">
+      <a href="https://github.com/joycequoos/WebAPI_NET_Employees">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=WebAPI_NET_Employees&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="WebAPI_NET_Employees">
       </a>
     </td>
     <td>
-      <a href="https://github.com/JosiTubaroski/projectangular16">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=projectangular16&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="WEBSITE-CAPTCHA">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/JosiTubaroski/Apache_Airflow.">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=Apache_Airflow.&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Apache_Airflow">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/JosiTubaroski/Jupyter_Relatorios_Matplotlib">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=Jupyter_Relatorios_Matplotlib&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Jupyter_Relatorios_Matplotlib">
+      <a href="https://github.com/joycequoos/projectangular16">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=projectangular16&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="WEBSITE-CAPTCHA">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/JosiTubaroski/Bootstrap">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=Bootstrap&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Bootstrap">
+      <a href="https://github.com/joycequoos/Apache_Airflow.">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=Apache_Airflow.&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Apache_Airflow">
       </a>
     </td>
     <td>
-      <a href="https://github.com/JosiTubaroski/Java-Selenium-Webdriver">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=Java-Selenium-Webdriver&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Java-Selenium-Webdriver">
+      <a href="https://github.com/joycequoos/Jupyter_Relatorios_Matplotlib">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=Jupyter_Relatorios_Matplotlib&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Jupyter_Relatorios_Matplotlib">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/JosiTubaroski/SQL-Server-Developer_ProgramacaoTotalStoredProcedure">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosiTubaroski&repo=SQL-Server-Developer_ProgramacaoTotalStoredProcedure&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="StoredProcedure">
+      <a href="https://github.com/joycequoos/Bootstrap">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=Bootstrap&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Bootstrap">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/joycequoos/Java-Selenium-Webdriver">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=Java-Selenium-Webdriver&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Java-Selenium-Webdriver">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/joycequoos/SQL-Server-Developer_ProgramacaoTotalStoredProcedure">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=SQL-Server-Developer_ProgramacaoTotalStoredProcedure&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="StoredProcedure">
       </a>
     </td>
     <td align="center" valign="middle">
