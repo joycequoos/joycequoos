@@ -101,7 +101,7 @@ I'm currently working on creating content that covers data analysis and data sci
 
 
 
-
+<!-- 
 ## 🛠 Coding Activity
 
 
@@ -112,7 +112,7 @@ I'm currently working on creating content that covers data analysis and data sci
 <div align="center">
   <a href="https://github.com/joycequoos">
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JosiTubaroski&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joycequoos&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycequoos&layout=compact&theme=dracula&hide_border=true&langs_count=15"/>
 </div>  
     
