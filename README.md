@@ -160,7 +160,7 @@ Connect with me:
                 </a>
             </td>
             <td >
-                <a href="https://www.instagram.com/joycedataworks/" target="blank">
+                <a href="https://www.instagram.com/joyce_quoos/" target="blank">
                     <img align="center" src="https://github.com/joycequoos/joycequoos/blob/main/img/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
                 </a>
             </td>
