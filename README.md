@@ -168,7 +168,7 @@ Connect with me:
     </table>
 </div>
 
-
+<!-- 
 <table>
   <tr>
     <td>
@@ -222,7 +222,7 @@ Connect with me:
   
 </table>
 
-
+<!-- activity graph heroku-app end -->
   
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
