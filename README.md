@@ -22,22 +22,22 @@
 
 <div align="left">
  <p>
- 👨🏽‍💻 &nbsp; <b>About Me</b>
+ 
  </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/joycequoos/joycequoos/blob/main/power-BI.jpg">
 
-<p>
-- 🔭 I’m currently working on dados
-</p>
-<p>
-- 🤔 I’m looking for help with dados and test automation
-</p>
-<p>
-- 💡 Open to collaborating on projects and innovative ideas. 
-</p>
-<p>
-- 💬 Ask me about dados and test automation
-</p>
+### 👋 Sobre mim
+
+Especialista em Dados, com foco em Engenharia de Dados (ELT), SQL, Python e Power BI —
+e aplicando IA a problemas reais de Compliance e prevenção à lavagem de dinheiro.
+Antes disso, passei por QA e Suporte Técnico, o que deixou uma marca: gosto de dado
+testado, validado e bem documentado.
+
+- 🔭 Construindo pipelines ELT e soluções analíticas
+- 🤖 Aplicando IA (Claude, Gemini) em fluxos de dados
+- 💬 Fale comigo sobre engenharia de dados, ELT, SQL ou PLD/AML
+- 📂 Cases completos no meu portfólio: https://joycequoos.github.io/
+
 
 
 <br>
