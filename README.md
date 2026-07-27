@@ -44,16 +44,12 @@ testado, validado e bem documentado.
 <br>
 </div> 
 
-#
+
 
 
  
 
-<h3 align="left">
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
-I'm currently working on creating content that covers data analysis and data science, as well as development and testing topics.
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
-</h3>  
+ 
 
 <div align="center" style="witdh:100%"> 
  <table>
