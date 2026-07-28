@@ -1,231 +1,43 @@
-
- 
-</h1>
-
 <div align="center">
- 
 
- &nbsp;&nbsp;&nbsp;&nbsp;
- 
- &nbsp;&nbsp;&nbsp;&nbsp;
+# Joyce Quoos Tubaroski
 
+**Data Engineering | Data Analysis | ETL/ELT | SQL | Python | Power BI**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joycequoos/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josiquoos@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/joycequoos/Principal_Data/blob/main/README.md)
 
-<p align="center">
-  <a href="https://github.com/joycequoos"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;DATA%20ANALYST;DATA%20SCIENCE;Data+ENGINEERING;15%2B%20years%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-
-
-<div align="left">
- <p>
- 
- </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/joycequoos/joycequoos/blob/main/power-BI.jpg">
-
-### 👋 Sobre mim
-
-Especialista em Dados, com foco em Engenharia de Dados (ELT), SQL, Python e Power BI —
-e aplicando IA a problemas reais de Compliance e prevenção à lavagem de dinheiro.
-Antes disso, passei por QA e Suporte Técnico, o que deixou uma marca: gosto de dado
-testado, validado e bem documentado.
-
-- 🔭 Construindo pipelines ELT e soluções analíticas
-- 🤖 Aplicando IA (Claude, Gemini) em fluxos de dados
-- 💬 Fale comigo sobre engenharia de dados, ELT, SQL ou PLD/AML
-- 📂 Cases completos no meu portfólio: https://joycequoos.github.io/
-
-
-
-<br>
-<br>
-</div> 
-
-
-
-
- 
-
- 
-
-<div align="center" style="witdh:100%"> 
- <table>
-  <tr>
-   <td valign="center" width="100px"><b>Data<b></td>
-   <td valign="center" width="100px"><b>Development<b></td>
-   <td valign="center" width="100px"><b>Software Testing<b></td> 
-  </tr>
-  <tr>
-   <td valign="center" align="center" width="400px">
-    <a font-size: 50px; href="https://github.com/joycequoos/Principal_Data/blob/main/README.md" target="_blank" rel="noopener noreferrer"> Link for Data </a></br>
-    <a font-size: 50px; href="https://github.com/joycequoos/PLD_Principal/blob/main/README.md" target="_blank" rel="noopener noreferrer"> PLD Projects – Access Restricted </a></br>
-   
-
-
-   
-   
-   
-  </td>    
-
-   
-   <td valign="center" align="center" width="400px">
-    <a font-size: 50px; href="https://github.com/joycequoos/Sites/blob/main/README.md"> HTML/CSS/JavaScript </a></br>
-    <a font-size: 50px; href="https://github.com/joycequoos/Development"> Development </a></br>
-
-
-    
-
-   </td>
-   <td valign="center" align="center" width="400px">
-    <a font-size: 50px; href="https://github.com/joycequoos/Test_QA"> Software Testing </a></br> 
-   </td>
-  </tr>
- </table/>
-</div/>
-
-
-
-
-
-<!-- 
-## 🛠 Coding Activity
-
-
-<p align="center">
-  
-</p>
-
-<div align="center">
-  <a href="https://github.com/joycequoos">
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joycequoos&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycequoos&layout=compact&theme=dracula&hide_border=true&langs_count=15"/>
-</div>  
-    
-
-#
-
-
-<!-- activity graph heroku-app start -->
-<!-- 
-<div align="center">
-    <a href="https://github.com/JosiTubaroski">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosiTubaroski&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
-    </a>
-</div>
-<!-- activity graph heroku-app end -->
-
-
- 
-<div> 
- 
-  ![Snake animation](https://github.com/joycequoos/joycequoos/blob/main/github-contribution-grid-snake.svg)
-
-   <img align="center" alt="Coding" width="400" src="https://github.com/joycequoos/joycequoos/blob/main/img/Dados12.png">
-
- 
-
-
-
-<div align="center">
-  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
-</div> 
-
-</div> 
-<h3 align="center">
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
-Connect with me:
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
-</h3>  
-
-
- <div align="center">
-    <table>
-        <tr>
-            <td>
-                <a href="https://www.linkedin.com/in/joycequoos/" target="blank">
-                    <img src="https://github.com/joycequoos/joycequoos/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="60">
-                </a>
-            </td>
-            <td >
-                <a href="mailto:josiquoos@gmail.com" target="_blank">
-                    <img align="center" src="https://github.com/joycequoos/joycequoos/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo" height="50" width="50">
-                </a>
-            </td>
-            <td >
-                <a href="https://www.instagram.com/joyce_quoos/" target="blank">
-                    <img align="center" src="https://github.com/joycequoos/joycequoos/blob/main/img/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
-                </a>
-            </td>
-        </tr>
-    </table>
 </div>
 
-<!-- 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/joycequoos/WebAPI_NET_Employees">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=WebAPI_NET_Employees&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="WebAPI_NET_Employees">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/joycequoos/projectangular16">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=projectangular16&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="WEBSITE-CAPTCHA">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/joycequoos/Apache_Airflow.">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=Apache_Airflow.&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Apache_Airflow">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/joycequoos/Jupyter_Relatorios_Matplotlib">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=Jupyter_Relatorios_Matplotlib&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Jupyter_Relatorios_Matplotlib">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/joycequoos/Bootstrap">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=Bootstrap&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Bootstrap">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/joycequoos/Java-Selenium-Webdriver">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=Java-Selenium-Webdriver&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="Java-Selenium-Webdriver">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/joycequoos/SQL-Server-Developer_ProgramacaoTotalStoredProcedure">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joycequoos&repo=SQL-Server-Developer_ProgramacaoTotalStoredProcedure&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250602" alt="StoredProcedure">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <strong style="color:#b0e0e6; font-size: 20px;">🚧 Coming Soon!!! 🚧</strong>
-    </td>
-  </tr>
+---
 
+## Sobre
 
-    
-  
-</table>
+Atuo com Engenharia e Análise de Dados, com foco em integração de dados (ETL/ELT), SQL, Python e Power BI. Tenho experiência também com SSIS, .NET Framework e Azure DevOps, e venho me dedicando ao estudo de IA aplicada a PLD/AML (Prevenção à Lavagem de Dinheiro).
 
-<!-- activity graph heroku-app end -->
-  
+Este perfil reúne meus projetos e trilhas de estudo, organizados por área.
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
-    
-   
+## Áreas de Estudo & Projetos
 
-</div>
-    
-<div>
-    
-    
-    
- </div>   
-  
+| Área | Descrição |
+|---|---|
+| [Dados](https://github.com/joycequoos/Principal_Data/blob/main/README.md) | Trilha de Análise de Dados, Engenharia de Dados e Ciência de Dados / IA. |
+| [Desenvolvimento](https://github.com/joycequoos/Development) | Python, Node.js, .NET, Full Stack e boas práticas de versionamento. |
+| [Sites & Desenvolvimento Web](https://github.com/joycequoos/Sites/blob/main/README.md) | HTML, CSS, JavaScript e Bootstrap. |
+| [Testes de Software / QA](https://github.com/joycequoos/Test_QA) | Estudos e práticas de automação de testes. |
+
+## Stack Técnica
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/joycequoos](https://www.linkedin.com/in/joycequoos/)
+- E-mail: [josiquoos@gmail.com](mailto:josiquoos@gmail.com)
