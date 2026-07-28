@@ -40,4 +40,4 @@ Este perfil reúne meus projetos e trilhas de estudo, organizados por área.
 ## Contato
 
 - LinkedIn: [linkedin.com/in/joycequoos](https://www.linkedin.com/in/joycequoos/)
-- E-mail: [josiquoos@gmail.com](mailto:josiquoos@gmail.com)
+- E-mail: [josiquoos@gmail.com](mailto:joycequoos@gmail.com)
