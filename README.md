@@ -41,7 +41,7 @@ Este perfil reúne meus projetos e trilhas de estudo, organizados por área.
 ## Atividade
  
 <div align="center">
-![Snake animation](https://github.com/joycequoos/joycequoos/raw/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joycequoos/joycequoos/blob/output/github-contribution-grid-snake-dark.svg)
  
 </div>
 
