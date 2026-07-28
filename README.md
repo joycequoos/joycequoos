@@ -14,7 +14,7 @@
 
 ## Sobre
 
-Atuo com Engenharia e Análise de Dados, com foco em integração de dados (ETL/ELT), SQL, Python e Power BI. Tenho experiência também com SSIS, .NET Framework e Azure DevOps, e venho me dedicando ao estudo de IA aplicada a PLD/AML (Prevenção à Lavagem de Dinheiro).
+Atuo com Engenharia e Análise de Dados, com foco em integração de dados (ETL/ELT), SQL, Python e Power BI. Tenho experiência também com SSIS, .NET Framework e Azure DevOps, e venho me dedicando ao estudo de Big Data com Databricks e de IA aplicada a PLD/AML (Prevenção à Lavagem de Dinheiro)
 
 Este perfil reúne meus projetos e trilhas de estudo, organizados por área.
 
@@ -36,6 +36,7 @@ Este perfil reúne meus projetos e trilhas de estudo, organizados por área.
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
 ## Contato
 
