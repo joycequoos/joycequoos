@@ -38,12 +38,6 @@ Este perfil reúne meus projetos e trilhas de estudo, organizados por área.
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
-## Atividade
- 
-<div align="center">
-![Snake animation](https://github.com/joycequoos/joycequoos/blob/output/github-contribution-grid-snake-dark.svg)
- 
-</div>
 
 ## Contato
 
