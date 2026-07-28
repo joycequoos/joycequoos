@@ -14,7 +14,7 @@
 
 ## Sobre
 
-Atuo com Engenharia e Análise de Dados, com foco em integração de dados (ETL/ELT), SQL, Python e Power BI. Tenho experiência também com SSIS, .NET Framework e Azure, e venho me dedicando ao estudo de Big Data com Databricks e de IA aplicada a PLD/AML (Prevenção à Lavagem de Dinheiro)
+Atuo com Engenharia e Análise de Dados, com foco em integração de dados (ETL/ELT), SQL, Python e Power BI. Tenho experiência também com SSIS, .NET Framework e Azure, e venho me dedicando ao estudo de Big Data com Databricks e de IA aplicada a PLD/AML (Prevenção à Lavagem de Dinheiro). Gosto de documentar minha trilha de aprendizado publicamente — este perfil reflete isso: cada repositório é uma etapa do caminho, não só um resultado final.
 
 Este perfil reúne meus projetos e trilhas de estudo, organizados por área.
 
