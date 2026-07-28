@@ -5,7 +5,7 @@
 **Data Engineering | Data Analysis | ETL/ELT | SQL | Python | Power BI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joycequoos/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josiquoos@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joycequoos@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/joycequoos/Principal_Data/blob/main/README.md)
 
 </div>
