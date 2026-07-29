@@ -2,6 +2,7 @@
 
 <img src="banner.svg" alt="joyce.data — Engenharia de Dados & IA" width="100%"/>
 
+
 </div>
 
 ---
@@ -51,15 +52,30 @@ Gosto de documentar minha trilha de aprendizado publicamente — este perfil ref
 </td>
 </tr>
 </table>
-
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0B0F19?style=flat-square&logo=azuredevops&logoColor=22D3EE)
+
+</td>
+<td align="center">
+
 ![Docker](https://img.shields.io/badge/Docker-0B0F19?style=flat-square&logo=docker&logoColor=22D3EE)
+
+</td>
+<td align="center">
+
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-0B0F19?style=flat-square&logo=apacheairflow&logoColor=22D3EE)
+
+</td>
+<td align="center">
+
 ![Databricks](https://img.shields.io/badge/Databricks-0B0F19?style=flat-square&logo=databricks&logoColor=22D3EE)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
