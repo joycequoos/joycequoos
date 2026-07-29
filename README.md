@@ -1,16 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
-  <img src="banner-dark.svg" alt="joyce.data — Engenharia de Dados & IA" width="100%"/>
-</picture>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-7C6FF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19)](https://www.linkedin.com/in/joycequoos/)<br/>
-[![Email](https://img.shields.io/badge/Email-Enviar%20mensagem-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B0F19&labelColor=0B0F19)](mailto:joycequoos@gmail.com)<br/>
-[![Portfólio](https://img.shields.io/badge/Portfólio-joyce.data-7C6FF0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0F19)](https://joycequoos.github.io/)
+<img src="banner.svg" alt="joyce.data — Engenharia de Dados & IA" width="100%"/>
 
 </div>
 
