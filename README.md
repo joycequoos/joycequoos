@@ -1,21 +1,18 @@
-
 <div align="center">
 
-# joyce.data
+<img src="banner.svg" alt="joyce.data — Engenharia de Dados & IA" width="100%"/>
 
-### De dado bruto a decisão: pipelines e sistemas de IA que resolvem problemas reais
+<br/><br/>
 
-**Engenharia de Dados & IA** · SQL Server · ETL/ELT · Python · Power BI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joycequoos/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joycequoos@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-181717?style=flat&logo=googlechrome&logoColor=white)](https://joycequoos.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-7C6FF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19)](https://www.linkedin.com/in/joycequoos/)
+[![Email](https://img.shields.io/badge/Email-Enviar%20mensagem-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B0F19&labelColor=0B0F19)](mailto:joycequoos@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-joyce.data-7C6FF0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0F19)](https://joycequoos.github.io/)
 
 </div>
 
 ---
 
-## Sobre
+### ✦ Sobre
 
 Especialista em dados com raízes em QA — o que significa que, para mim, uma solução só está pronta quando é testada, validada e documentada.
 
@@ -23,54 +20,77 @@ Minha jornada começou em 2005, no suporte técnico, onde aprendi a ouvir o usu�
 
 Gosto de documentar minha trilha de aprendizado publicamente — este perfil reflete isso: cada repositório é uma etapa do caminho, não só um resultado final.
 
-**Veja o portfólio completo, com cases de solução:** **[joycequoos.github.io →](https://joycequoos.github.io/)**
+**→ Veja o portfólio completo, com cases de solução: [joycequoos.github.io](https://joycequoos.github.io/)**
 
 ---
 
-## Stack por domínio
+### ✦ Stack por domínio
 
 **Engenharia de Dados**
-`SQL Server` `ETL / SSIS` `Stored Procedures` `Python / Pandas / NumPy`
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-7C6FF0?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![ETL/SSIS](https://img.shields.io/badge/ETL%20%2F%20SSIS-7C6FF0?style=flat-square&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20%2F%20Pandas%20%2F%20NumPy-7C6FF0?style=flat-square&logo=python&logoColor=white)
 
 **IA & Automação**
-`Claude AI` `Gemini` `.NET` `Prompt engineering aplicado`
+
+![Claude AI](https://img.shields.io/badge/Claude%20AI-22D3EE?style=flat-square&logo=anthropic&logoColor=0B0F19)
+![Gemini](https://img.shields.io/badge/Gemini-22D3EE?style=flat-square&logo=googlegemini&logoColor=0B0F19)
+![.NET](https://img.shields.io/badge/.NET-22D3EE?style=flat-square&logo=dotnet&logoColor=0B0F19)
 
 **BI & Análise**
-`Power BI` `Matplotlib / Seaborn` `Jupyter` `Storytelling de dados`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-4C4AE3?style=flat-square&logo=powerbi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-4C4AE3?style=flat-square&logo=jupyter&logoColor=white)
+![Storytelling](https://img.shields.io/badge/Storytelling%20de%20Dados-4C4AE3?style=flat-square&logo=googleanalytics&logoColor=white)
 
----
+<br/>
 
-## Problemas reais, soluções entregues
-
-Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeline de ingestão à priorização dos alertas. [Ver o storytelling completo →](https://joycequoos.github.io/storytelling_pld_1.html)
-
-### 01 · ETL — Pipeline D-1 de ingestão para PLD
-**Problema:** dados de clientes e operações chegam diariamente em arquivo bruto e precisam estar limpos e disponíveis antes das regras de Compliance rodarem.
-**Solução:** pacote SSIS com 4 etapas — limpeza da staging, leitura/validação do arquivo D-1, execução de procedure de consolidação e liberação das tabelas para análise.
-`D-1` ciclo de atualização · `4` etapas do pipeline
-
-### 02 · REG — Motor de regras de detecção de transações suspeitas
-**Problema:** verificar manualmente cada movimentação contra o limiar de Compliance não escala com o volume diário de operações.
-**Solução:** regra automatizada que sinaliza transações acima do parâmetro definido e segrega os resultados em tabela própria, criando fila de trabalho para o time de Compliance.
-`95` alertas gerados no dia · `5` produtos monitorados
-
-### 03 · SQL — Priorização de alertas com SQL + Python
-**Problema:** com dezenas de alertas gerados por dia, o Compliance precisa saber por onde começar a investigação.
-**Solução:** conexão Python↔SQL Server (pymssql) para consultar alertas, ranquear os clientes com maior incidência e cruzar volume de movimentação com risco por produto.
-`15` clientes priorizados · `Corretora` produto de maior risco relativo
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0B0F19?style=flat-square&logo=azuredevops&logoColor=22D3EE)
+![Docker](https://img.shields.io/badge/Docker-0B0F19?style=flat-square&logo=docker&logoColor=22D3EE)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-0B0F19?style=flat-square&logo=apacheairflow&logoColor=22D3EE)
+![Databricks](https://img.shields.io/badge/Databricks-0B0F19?style=flat-square&logo=databricks&logoColor=22D3EE)
 
 ---
 
-## Áreas de estudo & projetos
+### ✦ Problemas reais, soluções entregues
+
+Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeline de ingestão à priorização dos alertas.
+**→ [Ver o storytelling completo](https://joycequoos.github.io/storytelling_pld_1.html)**
+
+<br/>
+
+![01](https://img.shields.io/badge/01-ETL-7C6FF0?style=flat-square)
+**Pipeline D-1 de ingestão para PLD**
+> **Problema:** dados de clientes e operações chegam diariamente em arquivo bruto e precisam estar limpos e disponíveis antes das regras de Compliance rodarem.
+> **Solução:** pacote SSIS com 4 etapas — limpeza da staging, leitura/validação do arquivo D-1, execução de procedure de consolidação e liberação das tabelas para análise.
+
+![D-1](https://img.shields.io/badge/D--1-ciclo%20de%20atualização-0B0F19?style=flat-square&labelColor=7C6FF0)
+![4 etapas](https://img.shields.io/badge/4-etapas%20do%20pipeline-0B0F19?style=flat-square&labelColor=7C6FF0)
+
+<br/>
+
+![02](https://img.shields.io/badge/02-REG-22D3EE?style=flat-square)
+**Motor de regras de detecção de transações suspeitas**
+> **Problema:** verificar manualmente cada movimentação contra o limiar de Compliance não escala com o volume diário de operações.
+> **Solução:** regra automatizada que sinaliza transações acima do parâmetro definido e segrega os resultados em tabela própria, criando fila de trabalho para o time de Compliance.
+
+![95](https://img.shields.io/badge/95-alertas%20gerados%20no%20dia-0B0F19?style=flat-square&labelColor=22D3EE)
+![5](https://img.shields.io/badge/5-produtos%20monitorados-0B0F19?style=flat-square&labelColor=22D3EE)
+
+<br/>
+
+![03](https://img.shields.io/badge/03-SQL-4C4AE3?style=flat-square)
+**Priorização de alertas com SQL + Python**
+> **Problema:** com dezenas de alertas gerados por dia, o Compliance precisa saber por onde começar a investigação.
+> **Solução:** conexão Python↔SQL Server (pymssql) para consultar alertas, ranquear os clientes com maior incidência e cruzar volume de movimentação com risco por produto.
+
+![15](https://img.shields.io/badge/15-clientes%20priorizados-0B0F19?style=flat-square&labelColor=4C4AE3)
+![Corretora](https://img.shields.io/badge/Corretora-produto%20de%20maior%20risco-0B0F19?style=flat-square&labelColor=4C4AE3)
+
+---
+
+### ✦ Áreas de estudo & projetos
 
 | Área | Descrição |
 |---|---|
@@ -81,15 +101,17 @@ Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeli
 
 ---
 
-## Vamos conversar?
+<div align="center">
+
+### Vamos conversar?
 
 Colaborações e novas conexões em Engenharia de Dados e IA.
 
-- 🔗 Portfólio: [joycequoos.github.io](https://joycequoos.github.io/)
-- 💼 LinkedIn: [linkedin.com/in/joycequoos](https://www.linkedin.com/in/joycequoos/)
-- ✉️ E-mail: [joycequoos@gmail.com](mailto:joycequoos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=7C6FF0)](https://www.linkedin.com/in/joycequoos/)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/joycequoos)
+[![Email](https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=7C6FF0)](mailto:joycequoos@gmail.com)
 
-<div align="center">
+<br/>
 
 ✦ *joyce.data — pipelines e IA para problemas reais*
 
