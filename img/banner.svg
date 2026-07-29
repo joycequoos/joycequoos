@@ -1,0 +1,33 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="100%" stop-color="#161B2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C6FF0"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#7C6FF0" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7C6FF0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="17" fill="none" stroke="#242B45" stroke-width="1"/>
+
+  <text x="60" y="70" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="4" fill="#8A93B8">SOURCE&#160;&#8594;&#160;TRANSFORM&#160;&#8594;&#160;INSIGHT</text>
+
+  <text x="58" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#F4F6FB">joyce<tspan fill="url(#accent)">.data</tspan></text>
+
+  <text x="60" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#B7BEDB">Engenharia de Dados &amp; IA — pipelines e sistemas que resolvem problemas reais</text>
+
+  <text x="60" y="222" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#6B7394">&#10022; ETL/ELT &#160;&#183;&#160; SQL &#160;&#183;&#160; Python &#160;&#183;&#160; Power BI &#160;&#183;&#160; PLD/AML</text>
+
+  <circle cx="1080" cy="70" r="3" fill="#22D3EE"/>
+  <circle cx="1105" cy="55" r="2" fill="#7C6FF0"/>
+  <circle cx="1130" cy="90" r="2.5" fill="#22D3EE"/>
+  <text x="1050" y="230" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" fill="url(#accent)" opacity="0.6">&#10022;</text>
+</svg>
