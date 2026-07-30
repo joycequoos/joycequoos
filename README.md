@@ -151,6 +151,10 @@ Colaborações e novas conexões em Engenharia de Dados e IA.
 [![GitHub](https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/joycequoos)<br/>
 [![Email](https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=7C6FF0)](mailto:joycequoos@gmail.com)
 
+<a font-size: 50px; href="https://github.com/joycequoos/PLD_Principal/blob/main/README.md" target="_blank" rel="noopener noreferrer"> PLD Projects – Access Restricted </a></br>
+
+**→ [Ver o storytelling completo](https://joycequoos.github.io/storytelling_pld_1.html)**
+
 <br/>
 
 ✦ *joyce.data — pipelines e IA para problemas reais*
