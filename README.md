@@ -153,8 +153,8 @@ Colaborações e novas conexões em Engenharia de Dados e IA.
 
 
 <br>Um espaço privado onde centralizo conteúdos exclusivos, mentorias e iniciativas colaborativas em andamento.</br>
-Faz parte da rede ou quer conversar? → Entre em contato
-**→ [Acesso Exclusivo](https://github.com/joycequoos/PLD_Principal/blob/main/README.md)**
+Faz parte da rede ou quer conversar? → Entre em contato para solicitar acesso
+** [Acesso Exclusivo](https://github.com/joycequoos/PLD_Principal/blob/main/README.md)**
 
 <br/>
 
