@@ -144,7 +144,7 @@ Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeli
 
 Materiais adicionais, disponíveis separadamente PLD: [Conteúdo exclusivo](https://github.com/joycequoos/PLD_Principal/blob/main/README.md)
 
-
+---
 
 <div align="center">
 
