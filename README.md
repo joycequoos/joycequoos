@@ -140,6 +140,11 @@ Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeli
 | [Testes de Software / QA](https://github.com/joycequoos/Test_QA) | Estudos e práticas de automação de testes. |
 
 ---
+### Conteúdo exclusivo PLD
+
+Materiais adicionais, disponíveis separadamente PLD: [Conteúdo exclusivo](https://github.com/joycequoos/PLD_Principal/blob/main/README.md)
+
+
 
 <div align="center">
 
@@ -152,11 +157,8 @@ Colaborações e novas conexões em Engenharia de Dados e IA.
 [![Email](https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=7C6FF0)](mailto:joycequoos@gmail.com)
 
 
-<br>Um espaço privado onde centralizo conteúdos exclusivos, mentorias e iniciativas colaborativas em andamento.</br>
-Faz parte da rede ou quer conversar? → Entre em contato para solicitar acesso
-** [Acesso Exclusivo](https://github.com/joycequoos/PLD_Principal/blob/main/README.md)**
-
 <br/>
+
 
 ✦ *joyce.data — pipelines e IA para problemas reais*
 
