@@ -134,7 +134,7 @@ Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeli
 
 | Área | Descrição |
 |---|---|
-| [Dados](https://github.com/joycequoos/Principal_Data/blob/main/README.md) | Trilha de Análise de Dados, Engenharia de Dados e Ciência de Dados / IA. |
+| [Dados (Análise, Engenharia, Ciencia/IA)](https://github.com/joycequoos/Principal_Data/blob/main/README.md) | Trilha de Análise de Dados, Engenharia de Dados e Ciência de Dados / IA. |
 | [Desenvolvimento Web](https://github.com/joycequoos/Development) | .NET, Angular,  HTML, CSS, JavaScript e demais conteudos de Desenvolvimento web |
 | [Testes de Software / QA](https://github.com/joycequoos/Test_QA) | Estudos e práticas de planejamento, execucão, relatórios e automação de testes. |
 
