@@ -22,9 +22,9 @@
 
   <text x="58" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#F4F6FB">joyce<tspan fill="url(#accent)">.data</tspan></text>
 
-  <text x="60" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#B7BEDB">Engenharia de Dados &amp; IA — pipelines e sistemas que resolvem problemas reais</text>
+  <text x="60" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#B7BEDB">Engenharia de Dados &amp; IA — dados, automação e inteligência aplicada</text>
 
-  <text x="60" y="222" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#6B7394">&#10022; ETL/ELT &#160;&#183;&#160; SQL &#160;&#183;&#160; Python &#160;&#183;&#160; Power BI &#160;&#183;&#160; PLD/AML</text>
+  <text x="60" y="222" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#6B7394">&#10022; ETL/ELT &#160;&#183;&#160; SQL &#160;&#183;&#160; Python &#160;&#183;&#160; Power BI &#160;&#183;&#160; Airflow &#160;&#183;&#160; Databricks &#160;&#183;&#160; AWS &#160;&#183;&#160; Azure</text>
 
   <circle cx="1080" cy="70" r="3" fill="#22D3EE"/>
   <circle cx="1105" cy="55" r="2" fill="#7C6FF0"/>
