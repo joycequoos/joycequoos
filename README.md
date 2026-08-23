@@ -103,7 +103,7 @@ Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeli
   - Airflow (DAGs) — orquestração e agendamento de pipelines para operacoes de carga de dados
   - APIs - leitura de arquivos JSON, integração direta via API
 
-![6 técnicas](https://img.shields.io/badge/6-formas%20de%20implementação-0B0F19?style=flat-square&labelColor=7C6FF0) ![ETL & ELT](https://img.shields.io/badge/ETL%20%26%20ELT-diversas%20abordagens-0B0F19?style=flat-square&labelColor=7C6FF0)
+![8 técnicas](https://img.shields.io/badge/6-formas%20de%20implementação-0B0F19?style=flat-square&labelColor=7C6FF0) ![ETL & ELT](https://img.shields.io/badge/ETL%20%26%20ELT-diversas%20abordagens-0B0F19?style=flat-square&labelColor=7C6FF0)
 
 </td>
 </tr>
