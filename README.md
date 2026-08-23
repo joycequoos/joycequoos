@@ -91,12 +91,18 @@ Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeli
 <td width="100%">
 
 ![01](https://img.shields.io/badge/01-ETL-7C6FF0?style=flat-square)
-**Pipeline D-1 de ingestão para PLD**
+**Pipeline de ingestão de Dados**
 
-> **Problema:** dados de clientes e operações chegam diariamente em arquivo bruto e precisam estar limpos e disponíveis antes das regras de Compliance rodarem.
-> **Solução:** pacote SSIS com 4 etapas — limpeza da staging, leitura/validação do arquivo D-1, execução de procedure de consolidação e liberação das tabelas para análise.
+> **Problema:** Cada cliente ou fonte de dados impõe um cenário diferente de acesso — arquivo bruto, banco relacional, volume em nuvem — e nem sempre a mesma técnica de ingestão é a mais eficiente ou viável em todos os casos.
+> **Solução:** pipelines de ETL e ELT adaptados a cada origem:
+  - SSIS — orquestração de pacotes em ambiente SQL Server
+  - Python — ingestões customizadas e flexíveis
+  - Bulk Insert — cargas de alto volume com performance
+  - Leitura de views — extração direta na base do cliente
+  - AWS — leitura direta de volumes em nuvem
+  - Airflow (DAGs) — orquestração e agendamento de pipelines para operacoes de carga de dados
 
-![D-1](https://img.shields.io/badge/D--1-ciclo%20de%20atualização-0B0F19?style=flat-square&labelColor=7C6FF0) ![4 etapas](https://img.shields.io/badge/4-etapas%20do%20pipeline-0B0F19?style=flat-square&labelColor=7C6FF0)
+![6 técnicas](https://img.shields.io/badge/6-formas%20de%20implementação-0B0F19?style=flat-square&labelColor=7C6FF0) ![ETL & ELT](https://img.shields.io/badge/ETL%20%26%20ELT-diversas%20abordagens-0B0F19?style=flat-square&labelColor=7C6FF0)
 
 </td>
 </tr>
