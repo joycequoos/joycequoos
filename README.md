@@ -29,7 +29,7 @@ I document my learning journey publicly — this profile reflects that: every re
 <tr>
 <td align="center" valign="top" width="33%">
 
-**Engenharia de Dados**
+**Data Engineering**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-7C6FF0?style=flat-square&logo=microsoftsqlserver&logoColor=white)<br/>
 ![ETL/SSIS](https://img.shields.io/badge/ETL%20%2F%20SSIS-7C6FF0?style=flat-square&logo=databricks&logoColor=white)<br/>
@@ -38,7 +38,7 @@ I document my learning journey publicly — this profile reflects that: every re
 </td>
 <td align="center" valign="top" width="33%">
 
-**IA & Automação**
+**IA & Automation*
 
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-22D3EE?style=flat-square&logo=anthropic&logoColor=0B0F19)<br/>
 ![Gemini](https://img.shields.io/badge/Gemini-22D3EE?style=flat-square&logo=googlegemini&logoColor=0B0F19)<br/>
@@ -47,7 +47,7 @@ I document my learning journey publicly — this profile reflects that: every re
 </td>
 <td align="center" valign="top" width="33%">
 
-**BI & Análise**
+**BI & Analytics**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-4C4AE3?style=flat-square&logo=powerbi&logoColor=white)<br/>
 ![Jupyter](https://img.shields.io/badge/Jupyter-4C4AE3?style=flat-square&logo=jupyter&logoColor=white)<br/>
