@@ -9,15 +9,18 @@
 
 ### ✦ About
 
-Data Engineer with a background in QA and Business Analysis — which means I think about data quality and integrity as part of the design, not as a final checklist.
+Data Engineer with a background in QA and Business Analysis. I treat data quality and integrity as part of the design, not a final checklist.
 
-Today I build data pipelines and SQL rules that flag possible fraud for analyst review, and I help put together reports and dashboards for the business. I work mainly with SQL, Python, AWS, Databricks, and ELT/SSIS, along with APIs in .NET (C#) and code versioning in Azure DevOps. I'm also learning and applying AI to reduce false positives in transaction monitoring (AML).
+Current focus: data pipelines and SQL rules for fraud detection, feeding analyst work queues. Reports and dashboards for business visibility.
 
-My journey started in 2005 in technical support, where I learned to listen to users and solve problems at the root — and I spent years in QA and Business Analysis on critical financial systems before moving into Data in 2020. That path shaped how I work today: I enjoy building the technical solution just as much as sitting down with whoever lives the problem, whether a client or a teammate, to understand what actually needs solving.
+Stack: SQL, Python, AWS, Databricks, ELT/SSIS, .NET (C#) APIs, Azure DevOps. Currently applying AI to reduce false positives in transaction monitoring (AML).
 
-While my deepest experience is in finance, I'm driven by curiosity about how data solves problems in other contexts — and I'm open to bringing this way of working to new industries.
+Background: technical support (2005) → QA and Business Analysis on critical financial systems → Data Engineering (2020–present). This path shapes how I work: technical execution paired with direct problem discovery — with clients or teammates.
 
-I document my learning journey publicly — this profile reflects that: every repository is a step along the way, not just a final result.
+Open to industries beyond finance.
+
+I document my learning publicly — every repository here is a step, not just a final result.
+
 
 **→ See the full portfolio, with solution case studies: [joycequoos.github.io](https://joycequoos.github.io/)**
 
