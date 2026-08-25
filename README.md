@@ -83,10 +83,10 @@ I document my learning journey publicly — this profile reflects that: every re
 
 ---
 
-### ✦ Problemas reais, soluções entregues
+### ✦ Real Problems, Delivered Solutions
 
-Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeline de ingestão à priorização dos alertas.
-**→ [Ver o storytelling completo](https://joycequoos.github.io/storytelling_pld_1.html)**
+Three snapshots from the AML (Anti-Money Laundering) case — from the ingestion pipeline to alert prioritization.
+**→ [See the full storytelling](https://joycequoos.github.io/storytelling_pld_1.html)**
 
 <br/>
 
@@ -97,15 +97,18 @@ Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeli
 ![01](https://img.shields.io/badge/01-ETL-7C6FF0?style=flat-square)
 **Pipeline de ingestão de Dados**
 
-> **Problema:** Cada cliente ou fonte de dados impõe um cenário diferente de acesso — arquivo bruto, banco relacional, volume em nuvem — e nem sempre a mesma técnica de ingestão é a mais eficiente ou viável em todos os casos.
-> **Solução:** pipelines de ETL e ELT adaptados a cada origem:
-  - SSIS — orquestração de pacotes em ambiente SQL Server
-  - Python — ingestões customizadas e flexíveis
-  - Bulk Insert — cargas de alto volume com performance
-  - Leitura de views — extração direta na base do cliente
-  - AWS/Azure — leitura direta de volumes em nuvem
-  - Airflow (DAGs) — orquestração e agendamento de pipelines para operacoes de carga de dados
-  - APIs - leitura de arquivos JSON, integração direta via API
+> **Problem:**ach client or data source presents a different access scenario — raw files, relational databases, cloud storage volumes — and the same ingestion technique isn't always the most efficient or feasible across all cases.
+
+Solution: ETL and ELT pipelines adapted to each source:
+
+- SSIS — package orchestration in SQL Server environments
+- Python — custom, flexible ingestions
+- Bulk Insert — high-volume loads with performance in mind
+- View reads — direct extraction from the client's database
+- AWS/Azure — direct reads from cloud storage volumes
+- Airflow (DAGs) — orchestration and scheduling for data loading pipelines
+- APIs — reading JSON files, direct integration via API
+
 
 ![8 técnicas](https://img.shields.io/badge/6-formas%20de%20implementação-0B0F19?style=flat-square&labelColor=7C6FF0) ![ETL & ELT](https://img.shields.io/badge/ETL%20%26%20ELT-diversas%20abordagens-0B0F19?style=flat-square&labelColor=7C6FF0)
 
@@ -115,10 +118,10 @@ Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeli
 <td width="100%">
 
 ![02](https://img.shields.io/badge/02-REG-22D3EE?style=flat-square)
-**Motor de regras de detecção de transações suspeitas**
+**Suspicious Transaction Detection Rules Engine**
 
-> **Problema:** verificar manualmente cada movimentação contra o limiar de Compliance não escala com o volume diário de operações.
-> **Solução:** regra automatizada que sinaliza transações acima do parâmetro definido e segrega os resultados em tabela própria, criando fila de trabalho para o time de Compliance.
+> **Problem:** manually checking every transaction against the Compliance threshold doesn't scale with daily operation volume.
+> **Solution:** an automated rule that flags transactions above the defined parameter and segregates the results into a dedicated table, creating a work queue for the Compliance team.
 
 ![95](https://img.shields.io/badge/95-alertas%20gerados%20no%20dia-0B0F19?style=flat-square&labelColor=22D3EE) ![5](https://img.shields.io/badge/5-produtos%20monitorados-0B0F19?style=flat-square&labelColor=22D3EE)
 
@@ -128,10 +131,10 @@ Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeli
 <td width="100%">
 
 ![03](https://img.shields.io/badge/03-SQL-4C4AE3?style=flat-square)
-**Priorização de alertas com SQL + Python**
+**Alert Prioritization with SQL + Python**
 
-> **Problema:** com dezenas de alertas gerados por dia, o Compliance precisa saber por onde começar a investigação.
-> **Solução:** conexão Python↔SQL Server (pymssql) para consultar alertas, ranquear os clientes com maior incidência e cruzar volume de movimentação com risco por produto.
+> **Problem:** with dozens of alerts generated daily, Compliance needs to know where to start the investigation.
+> **Solution:** a Python↔SQL Server connection (pymssql) to query alerts, rank clients with the highest incidence, and cross-reference transaction volume with product risk.
 
 ![15](https://img.shields.io/badge/15-clientes%20priorizados-0B0F19?style=flat-square&labelColor=4C4AE3) ![Corretora](https://img.shields.io/badge/Corretora-produto%20de%20maior%20risco-0B0F19?style=flat-square&labelColor=4C4AE3)
 
@@ -141,26 +144,26 @@ Três recortes do case de PLD (Prevenção à Lavagem de Dinheiro) — do pipeli
 
 ---
 
-### ✦ Áreas de estudo & projetos
+### ✦ Learning & Projects
 
-| Área | Descrição |
+| Area | Description |
 |---|---|
-| [Dados (Análise, Engenharia, Ciencia/IA)](https://github.com/joycequoos/Principal_Data/blob/main/README.md) | Trilha de Análise de Dados, Engenharia de Dados e Ciência de Dados / IA. |
-| [Desenvolvimento Web](https://github.com/joycequoos/Development) | .NET, Angular,  HTML, CSS, JavaScript e demais conteudos de Desenvolvimento web |
-| [Testes de Software / QA](https://github.com/joycequoos/Test_QA) | Estudos e práticas de planejamento, execucão, relatórios e automação de testes. |
+| [Data (Analysis, Engineering, Science/AI](https://github.com/joycequoos/Principal_Data/blob/main/README.md) | Data Analysis, Data Engineering, and Data Science / AI track. |
+| [Web Development](https://github.com/joycequoos/Development) | .NET, Angular,  HTML, CSS, JavaScript and other Web Development content |
+| [Software Testing / QA](https://github.com/joycequoos/Test_QA) | Studies and practices in test planning, execution, reporting, and automation. |
 
 ---
-### Conteúdo exclusivo PLD
+### Exclusive AML Content
 
-Materiais adicionais, disponíveis separadamente PLD: [Conteúdo exclusivo](https://github.com/joycequoos/PLD_Principal/blob/main/README.md)
+Additional materials, available separately, AML: [Exclusive AML Content](https://github.com/joycequoos/PLD_Principal/blob/main/README.md)
 
 ---
 
 <div align="center">
 
-### Vamos conversar?
+### Let's Talk?
 
-Colaborações e novas conexões em Engenharia de Dados e IA.
+Collaborations and new connections in Data Engineering and AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=7C6FF0)](https://www.linkedin.com/in/joycequoos/)<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/joycequoos)<br/>
