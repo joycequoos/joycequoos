@@ -7,15 +7,19 @@
 
 ---
 
-### ✦ Sobre
+### ✦ About
 
-Especialista em dados com raízes em QA — o que significa que, para mim, uma solução só está pronta quando é testada, validada e documentada.
+Data Engineer with a background in QA and Business Analysis — which means I think about data quality and integrity as part of the design, not as a final checklist.
 
-Minha jornada começou em 2005, no suporte técnico, onde aprendi a ouvir o usuário e resolver problemas na raiz. A passagem por QA moldou minha visão analítica e crítica, e desde 2020 aplico essa bagagem como Especialista em Dados, atuando em ETL/ELT, SQL, Python e Power BI. Também tenho experiência com SSIS, .NET Framework e Azure, e venho me dedicando ao estudo de Big Data com Databricks e de IA aplicada a PLD/AML (Prevenção à Lavagem de Dinheiro).
+Today I build data pipelines and SQL rules that flag possible fraud for analyst review, and I help put together reports and dashboards for the business. I work mainly with SQL, Python, AWS, Databricks, and ELT/SSIS, along with APIs in .NET (C#) and code versioning in Azure DevOps. I'm also learning and applying AI to reduce false positives in transaction monitoring (AML).
 
-Gosto de documentar minha trilha de aprendizado publicamente — este perfil reflete isso: cada repositório é uma etapa do caminho, não só um resultado final.
+My journey started in 2005 in technical support, where I learned to listen to users and solve problems at the root — and I spent years in QA and Business Analysis on critical financial systems before moving into Data in 2020. That path shaped how I work today: I enjoy building the technical solution just as much as sitting down with whoever lives the problem, whether a client or a teammate, to understand what actually needs solving.
 
-**→ Veja o portfólio completo, com cases de solução: [joycequoos.github.io](https://joycequoos.github.io/)**
+While my deepest experience is in finance, I'm driven by curiosity about how data solves problems in other contexts — and I'm open to bringing this way of working to new industries.
+
+I document my learning journey publicly — this profile reflects that: every repository is a step along the way, not just a final result.
+
+**→ See the full portfolio, with solution case studies: [joycequoos.github.io](https://joycequoos.github.io/)**
 
 ---
 
