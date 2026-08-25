@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="joyce.data — "Data Engineering & Applied AI" width="100%"/>
+<img src="banner.svg" alt="joyce.data — Data Engineering & Applied AI" width="100%"/>
 
 
 </div>
