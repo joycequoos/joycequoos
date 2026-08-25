@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="joyce.data — Engenharia de Dados & IA" width="100%"/>
+<img src="banner.svg" alt="joyce.data — "Data Engineering & Applied AI" width="100%"/>
 
 
 </div>
@@ -23,7 +23,7 @@ I document my learning journey publicly — this profile reflects that: every re
 
 ---
 
-### ✦ Stack por domínio
+### ✦ Stack by Domain
 
 <table width="100%">
 <tr>
