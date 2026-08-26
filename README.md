@@ -151,7 +151,7 @@ Solution: ETL and ELT pipelines adapted to each source:
 
 | Area | Description |
 |---|---|
-| [Data (Analysis, Engineering, Science/AI](https://github.com/joycequoos/Principal_Data/blob/main/README.md) | Data Analysis, Data Engineering, and Data Science / AI track. |
+| [Data (Analysis, Engineering, Science/AI)](https://github.com/joycequoos/Principal_Data/blob/main/README.md) | Data Analysis, Data Engineering, and Data Science / AI track. |
 | [Web Development](https://github.com/joycequoos/Development) | .NET, Angular,  HTML, CSS, JavaScript and other Web Development content |
 | [Software Testing / QA](https://github.com/joycequoos/Test_QA) | Studies and practices in test planning, execution, reporting, and automation. |
 
