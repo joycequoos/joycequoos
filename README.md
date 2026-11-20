@@ -156,9 +156,9 @@ Solution: ETL and ELT pipelines adapted to each source:
 | [Software Testing / QA](https://github.com/joycequoos/Test_QA) | Studies and practices in test planning, execution, reporting, and automation. |
 
 ---
-### Exclusive AML Content
+### XPTO
 
-Additional materials, available separately, AML: [Exclusive AML Content](https://github.com/joycequoos/PLD_Principal/blob/main/README.md)
+XPTO: [XPTO](https://github.com/joycequoos/PLD_Principal/blob/main/README.md)
 
 ---
 
